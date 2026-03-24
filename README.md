@@ -131,7 +131,7 @@ This repository accompanies my Master’s Capstone Project submitted to EU Busin
 **Kotha Sreeja**  
 Hybrid Data Engineer | Analytics Engineer | Python Backend Developer | BI Analyst  
 MSc Business Analytics & Data Science  
-LinkedIn: *[Add your link]*  
+LinkedIn: *https://www.linkedin.com/in/kotha-sreeja/*  
 GitHub: *github.com/sreeja1105*
 
 ---
